@@ -1,7 +1,7 @@
 
 ![bmbadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmbadi&show_icons=true&theme=github_dark&count_private=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmbadi&theme=github_dark&hide_border=true&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmbadi&theme=github_dark&hide_border=true)](https://github.com/bmbadi/github-readme-stats)
 
 <!--
 **bmbadi/bmbadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
